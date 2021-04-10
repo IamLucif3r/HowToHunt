@@ -1,0 +1,1 @@
+# Hostile Subdomain Takeover Methodology
